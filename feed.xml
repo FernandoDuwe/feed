@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Duwe: Feed de Publicações</title>
-        <link>https://https://github.com/FernandoDuwe/feed/</link>
+        <link>https://github.com/FernandoDuwe/feed/</link>
         <description>Últimas atualizações do meu site</description>
-    <item><title>Último sinal calculado: -1</title><description>O último sinal calculado pelo sistema foi -1, com onde A = 0.29 e o tamanho da amostra é 184941.</description><pubDate>Sun, 02 Nov 2025 15:29:48 +0000</pubDate><guid>1762097388.766409_-1</guid></item></channel>
+    <item><title>Último sinal calculado: -1</title><description>O último sinal calculado pelo sistema foi -1, com onde A = 0.29 e o tamanho da amostra é 184941.</description><pubDate>Sun, 02 Nov 2025 18:00:09 +0000</pubDate><guid>1762106409.157398_-1</guid><link>https://github.com/FernandoDuwe/feed/{len(coluna_posicao)}</link></item></channel>
 </rss>
