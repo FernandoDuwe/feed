@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Duwe: Feed de Publicações</title>
@@ -11,5 +11,5 @@
       <pubDate>Sat, 02 Nov 2025 11:00:00 GMT</pubDate>
       <guid>https://https://github.com/FernandoDuwe/feed/noticias/1</guid>
     </item>
-  </channel>
+  <item><title>Último sinal calculado: -1</title><description>O último sinal calculado pelo sistema foi -1, com onde A = 0.29 e o tamanho da amostra é 184941.</description><pubDate>Sun, 02 Nov 2025 15:24:14 +0000</pubDate></item></channel>
 </rss>
